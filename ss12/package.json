@@ -1,0 +1,17 @@
+{
+  "name": "release-service",
+  "version": "1.0.0",
+  "description": "Microservice for Session 12 Exercise 2 - Automated Docker Release on Git Tag",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [
+    "devops",
+    "ci-cd",
+    "docker",
+    "ghcr"
+  ],
+  "author": "Nguyễn Phúc <phuchb24@gmail.com>",
+  "license": "MIT"
+}
